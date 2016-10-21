@@ -1,10 +1,11 @@
 # GitHub Tutorial
 
-_by <your-name-here>_
+### by Jefferson Villa
 
 ---
 ## Git vs. GitHub
-
+Git keeps "snapshots" of our code and also does not require github.  
+Github does require gitand it keep track of what you have submited to the cloud
 
 
 ---

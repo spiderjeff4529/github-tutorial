@@ -20,7 +20,7 @@ Github does require git and it keep track of what you have submited to the cloud
 
 ---
 ## Repository Setup
-
+you make a new repository then initialice your repository on github by typing git init.  then you can change or add something  in your code. and allways check git status to see if you added and commited after you added check git status if it says modified in red then you did not git add and if its green then you are ready to git commit.    
 
 
 

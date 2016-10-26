@@ -14,6 +14,7 @@ Github does require git and it keep track of what you have submited to the cloud
 2: then click on signup.  
 3: make sure that you use a profecianal username and pasword and an email 
 4: make a pasword that you will remember
+5: Here is an example of what you should be doing [image](https://help.github.com/assets/images/help/billing/billing_create_your_personal_account_form.png)
 
 
 
